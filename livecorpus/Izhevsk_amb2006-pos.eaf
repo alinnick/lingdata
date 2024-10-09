@@ -4,8 +4,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///C:/Users/alina/Videos/Izhevsk_amb2006.mp4" MIME_TYPE="video/mp4"/>
-        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:871c9a88-bb7b-4b21-b19a-5fa64db94691</PROPERTY>
+            MEDIA_URL="file:///C:/Users/alina/Videos/Izhevsk_amb2006.mp4" MIME_TYPE="video/*" RELATIVE_MEDIA_URL="../Izhevsk_amb2006.avi"/>
         <PROPERTY NAME="lastUsedAnnotationId">694</PROPERTY>
     </HEADER>
     <TIME_ORDER>
